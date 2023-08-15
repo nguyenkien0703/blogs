@@ -1,4 +1,4 @@
-module github.com/hbstack/theme
+module github.com/nguyenkien0703/blogs
 
 go 1.19
 
