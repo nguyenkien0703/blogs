@@ -1,6 +1,6 @@
 ---
-title: Hugo Modules Authors
-description: Hugo 模块代码和文档的贡献者
+title: Nguyen van kien tiếng anh
+description: hiểu tiêng
 images:
   - https://avatars.githubusercontent.com/u/128204519?s=200&v=4
 socials:

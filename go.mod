@@ -1,4 +1,4 @@
-module github.com/nguyenkien0703/blogs
+module github.com/nguyenkien0703/blogs.github.io
 
 go 1.19
 

@@ -2,7 +2,7 @@ main:
   - name: Support
     identifier: support
     weight: 100
-    url: https://github.com/hbstack
+    url: https://github.com/nguyenkien0703
     params:
       header: The HB support community.
       icon:
