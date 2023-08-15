@@ -3,7 +3,7 @@ command = "npm ci && hugo --minify --gc -b $URL" # change to suite your needs.
 publish = "public"
 
 [build.environment]
-NODE_VERSION = "19"
+NODE_VERSION = "18"
 HUGO_VERSION = "0.111.3"
 HUGO_ENABLEGITINFO = "true"
 HUGO_ENV = "production"
@@ -22,10 +22,7 @@ GO_VERSION = "1.20"
   to = "/en/404.html"
   status = 404
 
-[[redirects]]
-  from = "/zh-hans/*"
-  to = "/zh-hans/404.html"
-  status = 404
+
 
 # fallback 404 page.
 [[redirects]]

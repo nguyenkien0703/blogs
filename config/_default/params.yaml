@@ -1,21 +1,26 @@
-description: The starter theme template of HB (Hugo Bootstrap) Framework.
+description: 😀I’m looking for opportunities to develop myself, 
+  my skills and apply what I have learned into practice in backend blockchain.
 
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
+    brand: Kien # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
-      github: hbstack
-      twitter: razonyang
+      _color: true
+      github: nguyenkien0703
+      linkedin: https://www.linkedin.com/in/kien-nguyen-van-a6a72225b/
+      gmail: mailto:nguyenkien123ns@gmail.com
+
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
-      github: hbstack
-      twitter: razonyang
+      github: nguyenkien0703
+      linkedin: https://www.linkedin.com/in/kien-nguyen-van-a6a72225b/
+      gmail: mailto:nguyenkien123ns@gmail.com
   blog:
     full_width: false # when true, the blog layout takes full width.
     sidebar:
@@ -26,7 +31,7 @@ hb:
         count: true # whether to show the number of posts associated to the item.
         limit: 10 # the maximum number of the item.
     paginate: 12 # paginate.
-    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    post_thumbnail_placeholder: Empty Contents # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
@@ -56,7 +61,7 @@ hb:
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
-    icon: images/logo.png # use logo as favicon.
+    icon: images/logo1.png # use logo as favicon.
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:
@@ -64,7 +69,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'HB Theme'
+    short_name: 'Empty Contents'
 
 # see https://hugomods.com/en/docs/search/#site-parameters
 search:
@@ -99,4 +104,4 @@ hugopress:
     hb-blog-sidebar-posts:
       hooks:
         hb-blog-sidebar:
-          weight: 2
+          weight: 1

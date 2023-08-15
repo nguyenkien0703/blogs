@@ -1,6 +1,6 @@
 {
   "name": "hb-theme",
-  "description": "The starter theme template of [HB Framework](https://hbstack.dev/).",
+  "description": "As a person with youthful enthusiasm, I’m looking for opportunities to develop myself, my skills and apply what I have learned into practice. Always be ready to face myself and always have the courage to be disliked. My desire is to become a full-stack blockchain developer and to work as a global citizen.",
   "scripts": {
     "dev": "hugo server --gc --disableFastRender --enableGitInfo -D",
     "prod": "hugo server --gc --disableFastRender --enableGitInfo --renderToDisk --minify -e production -p 1314"
@@ -9,12 +9,12 @@
     "type": "git",
     "url": "git+https://github.com/hbstack/theme.git"
   },
-  "author": "Razon Yang <razonyang@gmail.com>",
+  "author": "nguyenkien <nguyenkien123ns@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hbstack/theme/issues"
   },
-  "homepage": "https://github.com/hbstack/theme#readme",
+  "homepage": "https://github.com/nguyenkien0703",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "autoprefixer": "^10.4.14",

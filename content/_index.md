@@ -1,5 +1,5 @@
 ---
-title: HB Theme Template
+title: NguyenKien
 # menu:
 #   main:
 #     name: Home
